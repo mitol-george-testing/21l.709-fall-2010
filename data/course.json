@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "eacd24f8-fedc-ae68-0858-42943042b346"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Studies in Literary History: Modernism: From Nietzsche to Fellini",
+  "course_description": "How do literature, philosophy, film and other arts respond to the profound changes in world view and lifestyle that mark the twentieth century? This course considers a broad range of works from different countries, different media, and different genres, in exploring the transition to a decentered \"Einsteinian\" universe.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.709",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
